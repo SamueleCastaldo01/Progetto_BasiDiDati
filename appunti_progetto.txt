@@ -1,0 +1,6 @@
+include lezione 5, è una generalizzazione
+esempio persona: include studente e lavoratore
+anche lezione 6
+
+lezione 7
+definizioni di chiave
